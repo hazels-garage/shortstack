@@ -1,5 +1,6 @@
 # shortstack
 
+# UNTESTED PROTOTYPE
 | Left | Right |
 | :---: | :---: |
 |  ![left](images/shortstack-bottom.png) | ![right](images/shortstack-top.png) |
@@ -8,7 +9,7 @@
 
 ## ultrathin split ortholinear
 
-# UNTESTED PROTOTYPE
+Probably my final X Switch novelty board.  Split 6x4 ortho.  No bells or whistles.
 
 ## MATERIALS
 - 24-48x [Kailh X Switches](https://mkultra.click/kailh-x-switches-and-keycaps/)
