@@ -27,7 +27,7 @@ jobs:
         # optional - schematic file
         # schema: 'main.kicad_sch'
         # optional - PCB design file
-        board: "pcbs/dust.kicad_pcb"
+        board: "pcbs/shortstack.kicad_pcb"
     - uses: actions/upload-artifact@main
       with:
         path: gallery/
