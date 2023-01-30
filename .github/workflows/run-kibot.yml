@@ -7,7 +7,7 @@ on:
   push:
     paths:
       - '*.kicad_pcb'
-      # - '*'
+      - '*'
       - '*.kibot.yaml'
       - '.github/workflows/run-kibot.yml'
 
