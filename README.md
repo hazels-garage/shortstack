@@ -12,8 +12,8 @@
 Probably my final X Switch novelty board.  Split 6x4 ortho.  No bells or whistles.
 
 ## MATERIALS
-- 24-48x [Kailh X Switches](https://mkultra.click/kailh-x-switches-and-keycaps/)
-- 24-48x [1N4148 - SOD-123 Diodes](https://mkultra.click/diode-1n4148-sod-123f/)
+- 48x [Kailh X Switches](https://mkultra.click/kailh-x-switches-and-keycaps/)
+- 48x [1N4148 - SOD-123 Diodes](https://mkultra.click/diode-1n4148-sod-123f/)
 - 2x ProMicro compatible controller
 - 2x [TRRS Jack](https://mkultra.click/pj-320a-3-5mm-trrs-jack/)
 
