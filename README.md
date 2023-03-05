@@ -1,6 +1,5 @@
 # shortstack
 
-# UNTESTED PROTOTYPE
 | Left | Right |
 | :---: | :---: |
 |  ![left](images/shortstack-bottom.png) | ![right](images/shortstack-top.png) |
