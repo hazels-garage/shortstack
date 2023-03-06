@@ -19,7 +19,7 @@ Probably my final X Switch novelty board.  Split 6x4 ortho.  No bells or whistle
 ## Build Details
 - solder jumpers on back of each side
 - controller is installed component side up.
-- right side is connected to PCB.
+- right side is connected to computer.
 
 ## FIRMWARE
 
