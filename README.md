@@ -1,5 +1,7 @@
 # shortstack
 
+![build](images/PXL_20230305_215537832.MP.jpg)
+
 | Left | Right |
 | :---: | :---: |
 |  ![left](images/shortstack-bottom.png) | ![right](images/shortstack-top.png) |
