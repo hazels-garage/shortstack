@@ -19,7 +19,8 @@ Probably my final X Switch novelty board.  Split 6x4 ortho.  No bells or whistle
 - 2x [TRRS Jack](https://mkultra.click/pj-320a-3-5mm-trrs-jack/)
 
 ## Build Details
-- solder jumpers on back of each side
+- reversible pcb.
+- solder jumpers on back of each side.
 - controller is installed component side up.
 - right side is connected to computer.
 
